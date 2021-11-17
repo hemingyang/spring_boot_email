@@ -1,8 +1,8 @@
-# Getting Started
+### Getting Started
 
 ### 邮箱服务 -Email
 
-###腾讯 - QQ邮箱
+### 腾讯 - QQ邮箱
 ```
 spring:
   mail:
@@ -12,7 +12,7 @@ spring:
     password: rwytuuayrrogtkce
 ```
 
-###网易 - 163邮箱
+### 网易 - 163邮箱
 ```
 spring:
   mail:
@@ -21,7 +21,7 @@ spring:
     username: hemingyangyang@163.com
     password: rwytuuayrrogtkce
 ```
-###谷歌 - gmail邮箱
+### 谷歌 - gmail邮箱
 ```
 spring:
   mail:
@@ -30,7 +30,7 @@ spring:
     username: hemingyangyang@gmail.com
     password: rwytuuayrrogtkce
 ```
-###微软 - outlook邮箱
+### 微软 - outlook邮箱
 ```
 spring:
   mail:
@@ -39,7 +39,7 @@ spring:
     username: hemingyangyang@outlook.com
     password: rwytuuayrrogtkce
 ```
-###雅虎 - yahoo邮箱
+### 雅虎 - yahoo邮箱
 ```
 spring:
   mail:
